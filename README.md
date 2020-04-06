@@ -7,4 +7,7 @@ git clone https://github.com/darkarrow428/dark_wifi-steal
 
 cd dark_wifi-steal
 
-python3 wifisteal.py \\ to run the setup
+python3 wifisteal.py 
+(to run the setup)
+
+Because some of the older version of the python is not support this code. It reports as error.
