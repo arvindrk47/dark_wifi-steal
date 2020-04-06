@@ -11,3 +11,5 @@ python3 wifisteal.py
 (to run the setup)
 
 Because some of the older version of the python is not support this code. It reports as error.
+
+This script enables your wifi router as a evil twin(fake) router.
